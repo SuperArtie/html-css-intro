@@ -1,0 +1,51 @@
+@import url(http://fonts.googleapis.com/css?family=Pinyon+Script);
+
+body{
+  margin: 0px;
+  background-color: #739ab3;
+}
+
+h1{
+  border: 18px dotted #00ff99;
+  color: red;
+  background-color: yellow;
+  font-size: 150px;
+  letter-spacing: 15px;
+  padding: 20px;
+  margin: 0px;
+  font-family: 'Pinyon Script', cursive;
+}
+img{
+  background-color: #3a87a4;
+  padding: 23px;
+}
+
+a{
+  text-decoration: none;
+  border: 5px dashed #1b2a3f;
+  color: #7d6d11;
+  margin: 12px 12px 12px 12px;
+  padding: 23px 23px 23px 23px;
+  background-color: #ccff99;
+}
+
+a:hover{
+  text-decoration: underline;
+  color:#4f5acb;
+  background-color:#abcd30;
+}
+
+nav{
+  margin-top: 25px;
+  background-color: #ef3465;
+}
+
+.super{
+  font-size: 20px;
+  color: blue;
+}
+
+#awesome{
+  font-size: 23px;
+  color: red;
+}
